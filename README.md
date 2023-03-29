@@ -15,7 +15,7 @@ Fanatic is a automatic fan speed based on temperature & humidity. It detect temp
 
 Clone this repository
 ```
-git clone <repo>
+git clone https://github.com/solvedbiscuit71/fanatic.git
 ```
 
 <br>
